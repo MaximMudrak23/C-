@@ -1,0 +1,15 @@
+D:\GitRepos\C#\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepos\C#\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+D:\GitRepos\C#\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+D:\GitRepos\C#\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+D:\GitRepos\C#\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.sourcelink.json
+D:\GitRepos\C#\Lab2\Lab2\Lab2\bin\Debug\net8.0\Lab2.exe
+D:\GitRepos\C#\Lab2\Lab2\Lab2\bin\Debug\net8.0\Lab2.deps.json
+D:\GitRepos\C#\Lab2\Lab2\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+D:\GitRepos\C#\Lab2\Lab2\Lab2\bin\Debug\net8.0\Lab2.dll
+D:\GitRepos\C#\Lab2\Lab2\Lab2\bin\Debug\net8.0\Lab2.pdb
+D:\GitRepos\C#\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.dll
+D:\GitRepos\C#\Lab2\Lab2\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+D:\GitRepos\C#\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.pdb
+D:\GitRepos\C#\Lab2\Lab2\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+D:\GitRepos\C#\Lab2\Lab2\Lab2\obj\Debug\net8.0\ref\Lab2.dll

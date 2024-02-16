@@ -68,7 +68,7 @@ class Program
             
             while(true)
             {
-                if (day == "Понедельник" || day == "Вторник" || day == "Среда" || day == "Четверг" || day == "Пятница" || day == "Субота" || day == "Воскресенье")
+                if (day == "Понедiлок" || day == "Вiвторок" || day == "Середа" || day == "Четвер" || day == "П'ятниця" || day == "Суббота" || day == "Недiля")
                 {
                     break;
                 }
@@ -79,41 +79,41 @@ class Program
                 }
             }
 
-            if (day == "Понедельник")
+            if (day == "Понедiлок")
             {
                 Console.WriteLine("12:00 - 14:00");
                 Console.WriteLine("16:00 - 18:00");
             }
-            else if (day == "Вторник")
+            else if (day == "Вiвторок")
             {
                 Console.WriteLine("10:00 - 12:00");
                 Console.WriteLine("13:00 - 15:00");
                 Console.WriteLine("16:00 - 18:00");
             }
-            else if (day == "Среда")
+            else if (day == "Середа")
             {
                 Console.WriteLine("10:00 - 12:00");
                 Console.WriteLine("13:00 - 15:00");
                 Console.WriteLine("16:00 - 18:00");
             }
-            else if (day == "Четверг")
+            else if (day == "Четвер")
             {
                 Console.WriteLine("10:00 - 12:00");
                 Console.WriteLine("13:00 - 15:00");
                 Console.WriteLine("16:00 - 18:00");
             }
-            else if (day == "Пятница")
+            else if (day == "П'ятниця")
             {
                 Console.WriteLine("12:00 - 14:00");
                 Console.WriteLine("16:00 - 18:00");
             }
-            else if (day == "Субота")
+            else if (day == "Суббота")
             {
-                Console.WriteLine("В этот день мы не работаем");
+                Console.WriteLine("В цей день ми не працюємо");
             }
-            else if (day == "Воскресенье")
+            else if (day == "Недiля")
             {
-                Console.WriteLine("В этот день мы не работаем");
+                Console.WriteLine("В цей день ми не працюємо");
             }
         }
         else if (task == 5)
